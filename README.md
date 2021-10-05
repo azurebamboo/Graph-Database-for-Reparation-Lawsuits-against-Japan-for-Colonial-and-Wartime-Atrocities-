@@ -2,7 +2,7 @@ This is an ongoing project to digitize reparation lawsuits against Japanese colo
 
 The all-plain.cypher file can be loaded into graph database systems like Neo4j (https://sandbox.neo4j.com) to generate the database. The all data Kineviz-graphxr *DATE*.graphxr file can be loaded into the web-based graph visualization and processing tool GraphXR(https://graphxr.kineviz.com/register) with an account. 
 
-If you have any questions about this project, please contact kpan@fiu.edu
+If you have any questions about this project, please contact azurebamboo@gmail.com
 
 Here are some visulaization made with the databse using GraphXR:
 
